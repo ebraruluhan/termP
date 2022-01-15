@@ -1,0 +1,10 @@
+blue_square = 0, 
+green_square = 1, 
+red_square = 2, 
+blue_cirle = 3, 
+green_circle = 4, 
+red_circle = 5, 
+blue_tri = 6, 
+green_tri = 7, 
+red_tri = 8, 
+background = 9
